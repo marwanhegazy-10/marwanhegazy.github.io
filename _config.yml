@@ -22,7 +22,7 @@ repository               : "marwanhegazy-10/marwanhegazy-10.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "profile_pic2.png"
   name             : "Marwan Hegazy"
   pronouns         : # example: "she/her"  
   bio              : "CS @ UT Dallas"
@@ -47,7 +47,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "marwanhegazy-10"
+  linkedin         : "marwan-hegazy"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
